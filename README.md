@@ -10,17 +10,17 @@ Python application for tracking board game statistics with automated score proce
 
 \### Main Dashboard
 
-!\[Board Game Tracker Dashboard](../screenshots/dashboard.png)
+!\[Board Game Tracker Dashboard](Screenshots/dashboard.png)
 
 
 
 \### Player Statistics
 
-!\[Player Statistics](../screenshots/statistics.png)
+!\[Player Statistics](Screenshots/statistics.png)
 
 
 
 \### AI Photo Import
 
-!\[AI Photo Import Interface](../screenshots/photo-import.png)
+!\[AI Photo Import Interface](Screenshots/photo\_import.png)
 
